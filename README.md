@@ -73,6 +73,30 @@ Example questions the system should refuse:
 - What is the employee salary increase plan for next year?
 - Which secret project will be launched next quarter?
 
+
+## Application screenshots
+
+### PolicyPilot interface
+
+![PolicyPilot Streamlit home screen](docs/screenshots/home.png)
+
+### Grounded answers with citations
+
+![RAG answer with source citations](docs/screenshots/answer_with_sources.png)
+
+### Local vector index diagnostics
+
+![Vector index status](docs/screenshots/vector_index_status.png)
+
+### Evaluation dashboard
+
+![RAG evaluation diagnostics](docs/screenshots/evaluation_diagnostics.png)
+
+### Retrieval and grounding debugger
+
+![RAG debug details](docs/screenshots/debug_details.png)
+
+
 ## Quick start
 
 Clone the repository:
